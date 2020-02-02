@@ -16,5 +16,5 @@ and here are some ideas that i use to keep myself in a growth mindset
 My name is rowaid Al sayyed obeid and i am a mechatronics engineer i was worked as a trainer for robotics courses for different ages.  
 and i am so excited to learning new things and complete these courses.
  
-Here you can see my first website i build using markdown language  
-[learning-journal](rowaidsayyed.github.io/learning-journal)
+Here you can see my github portfolio page  
+[rowaidsayyed](https://github.com/rowaidsayyed)
