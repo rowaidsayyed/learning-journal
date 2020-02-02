@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# welcome 102d5
 
-You can use the [editor on GitHub](https://github.com/rowaidsayyed/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## growth mindset
+![image](https://live.staticflickr.com/5111/5866575567_3bedd2c173_b.jpg)
+Growth mindset helps us grow in whatever we face as we can open pathways to more creativity and possibility solutions, and enable the setting of higher goals and more achievement.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In growth minset we think in different way as we can see the **challenges** and **Obstacles** that we face as a reason to try more, increase our effort and work harder and not to disappoint us.
 
-### Markdown
+I think that we need to remember what hapened with us in the past and how we faced many obstecals and we think it was hard but we pass it so anything we will face we need to try harder and try different ways to pass through it.    
+and here are some ideas that i use to keep myself in a growth mindset
+1. Be positive always
+2. Work harder as we said always _no pain, no gain_ 
+3. learn and try somthing new.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rowaidsayyed/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## About me
+My name is rowaid Al sayyed obeid and i am a mechatronics engineer i was worked as a trainer for robotics courses for different ages.  
+and i am so excited to learning new things and complete these courses.
+ 
+Here you can see my first website i build using markdown language  
+[learning-journal](rowaidsayyed.github.io/learning-journal)
