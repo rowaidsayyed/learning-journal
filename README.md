@@ -17,10 +17,3 @@ Here you can see my github portfolio page
 | Growth mindset | [growth mindset](https://rowaidsayyed.github.io/learning-journal/learning2) |
 | Terminal and Text editors | [Terminal and Text editors](https://rowaidsayyed.github.io/learning-journal/learning22) |
 | Git | [git](https://rowaidsayyed.github.io/learning-journal/learning102(day2)) |
-
-
-
-- first page ([Introduction](https://rowaidsayyed.github.io/learning-journal/))
-- second page ([growth mindset](https://rowaidsayyed.github.io/learning-journal/learning2))
-- third page ([Terminal and Text editors](https://rowaidsayyed.github.io/learning-journal/learning22))
-- fourth page ([git](https://rowaidsayyed.github.io/learning-journal/learning102(day2)))
