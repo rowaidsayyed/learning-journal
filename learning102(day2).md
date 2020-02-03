@@ -13,4 +13,4 @@ git is a version control system also git store data on the device
 4. commit using `git commit`
 5. push using `git push`
 
-**page 3**
+**page 4**
