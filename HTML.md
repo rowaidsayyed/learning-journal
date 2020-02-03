@@ -15,7 +15,3 @@ HTML5 introduces a new set of elements that allow you to divide up theparts of a
 - `<p>`
 - `<main>`
 - `<nav>`
-
-
-URL
-http://rowaidsayyed.github.io/learning-journal/HTML
