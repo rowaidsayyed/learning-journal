@@ -1,16 +1,7 @@
-# welcome 102d5
+# Welcome 102d5
 
-## growth mindset
-![image](https://live.staticflickr.com/5111/5866575567_3bedd2c173_b.jpg)
-Growth mindset helps us grow in whatever we face as we can open pathways to more creativity and possibility solutions, and enable the setting of higher goals and more achievement.
-
-In growth minset we think in different way as we can see the **challenges** and **Obstacles** that we face as a reason to try more, increase our effort and work harder and not to disappoint us.
-
-I think that we need to remember what hapened with us in the past and how we faced many obstecals and we think it was hard but we pass it so anything we will face we need to try harder and try different ways to pass through it.    
-and here are some ideas that i use to keep myself in a growth mindset
-1. Be positive always
-2. Work harder as we said always _no pain, no gain_ 
-3. learn and try somthing new.
+## Introduction
+In these pages i will introduce and summarize shortly many topics which covered during 102 course until now.
 
 ## About me
 My name is rowaid Al sayyed obeid and i am a mechatronics engineer i was worked as a trainer for robotics courses for different ages.  
@@ -18,3 +9,9 @@ and i am so excited to learning new things and complete these courses.
  
 Here you can see my github portfolio page  
 [rowaidsayyed](https://github.com/rowaidsayyed)
+
+## Table of contents
+- first page ([Introduction](https://rowaidsayyed.github.io/learning-journal/))
+- second page (growth mindset)
+- third page (Terminal and Text editors)
+- fourth page (git)
