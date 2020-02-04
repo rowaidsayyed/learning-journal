@@ -9,7 +9,7 @@
 ## Binary and Data 
 computers work with binary system
 
-# Logic and circuits
+## Logic and circuits
 Some simple circuits that use 1 and 0
 - Not 
 - And
@@ -18,7 +18,7 @@ Some simple circuits that use 1 and 0
 - Nand
 - adder
 
-# Hardware and software
+## Hardware and software
 software tells the cpu what to do
 
 
