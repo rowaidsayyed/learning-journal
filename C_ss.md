@@ -10,8 +10,8 @@ CSS allows us to create rules that specify how the content ofan element should a
 
 ## Color 
 There are many ways to write and select the colors
-- Name of the color
-- hex code
+- Name of the color
+- hex code
 - RGB values
 
 we can change the color for many things like
