@@ -14,7 +14,7 @@ There are many ways to write and select the colors
 - hex code
 - RGB values
 
-We can change the color for many things like
+we can change the color for many things like
 - Text
 - Background 
  
