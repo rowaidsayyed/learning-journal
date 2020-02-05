@@ -2,6 +2,7 @@
 
 ## Scripts
 > script is a series of instructions 
+
 As computer do tasks in a different way than human so we need to think like computers to reach our goal also to make it easier we need to beak down our goal into tasks then work on them so it will be easier.
 
 ## Expressions 
@@ -23,6 +24,6 @@ function like a container that contain many statements together to do a specific
 When we want to declare a function we need
 - function keyword
 - function name
-- identifer (optional)
+- parameters (optional)
 
 when we need to call a function we use the function name 

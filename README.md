@@ -20,3 +20,4 @@ Here you can see my github portfolio page
 7. [Introduction to JavaScripts](https://rowaidsayyed.github.io/learning-journal/JavaScripts)
 8. [How computer works](https://rowaidsayyed.github.io/learning-journal/videos)
 9. [JavaScripts](https://rowaidsayyed.github.io/learning-journal/Javascript&jQuery(Read7))
+10. [logical operators & loops](https://rowaidsayyed.github.io/learning-journal/logicaloperators&loops(Read8))
