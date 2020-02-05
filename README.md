@@ -11,8 +11,11 @@ Here you can see my github portfolio page
 [rowaidsayyed](https://github.com/rowaidsayyed)
 
 ## Table of contents
-- first page ([Introduction](https://rowaidsayyed.github.io/learning-journal/))
-- second page ([growth mindset](https://rowaidsayyed.github.io/learning-journal/learning2))
-- third page ([Terminal and Text editors](https://rowaidsayyed.github.io/learning-journal/learning22))
-- fourth page ([git](https://rowaidsayyed.github.io/learning-journal/learning102(day2)))
-- fifth page ([CSS](https://rowaidsayyed.github.io/learning-journal/C_ss))
+1. [Introduction](https://rowaidsayyed.github.io/learning-journal/)
+2. [growth mindset](https://rowaidsayyed.github.io/learning-journal/learning2)
+3. [Terminal and Text editors](https://rowaidsayyed.github.io/learning-journal/learning22)
+4. [git](https://rowaidsayyed.github.io/learning-journal/learning102(day2))
+5. [CSS](https://rowaidsayyed.github.io/learning-journal/C_ss)
+6. [Introduction to JavaScripts](https://rowaidsayyed.github.io/learning-journal/JavaScripts)
+7. [How computer works](https://rowaidsayyed.github.io/learning-journal/videos)
+8. [JavaScripts](https://rowaidsayyed.github.io/learning-journal/Javascript&jQuery(Read7))
